@@ -1,3 +1,11 @@
 # esp-blinky
 
-Simple C++ bloated blinky example that may serve as a template
+Simple C++ bloated blinky example that may serve as a template.
+
+It is targeted for the ESP8266 NodeMCU board but it can also be used for the
+ESP32 target.
+
+# Related
+
+Espressif ESP8266 documentation
+https://docs.espressif.com/projects/esp8266-rtos-sdk/en/latest/api-reference/index.html
